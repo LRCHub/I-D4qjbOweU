@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Y",
+  "base_artist": "C&K",
+  "createdAt": "2026-02-23T15:39:02.414264Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I.G.Y.",
+      "artist": "Donald Fagen",
+      "has_synced": true,
+      "path": "select/01_I.G.Y._Donald_Fagen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "B.Y.H.B.",
+      "artist": "Uncle Ezra Ray",
+      "has_synced": true,
+      "path": "select/02_B.Y.H.B._Uncle_Ezra_Ray.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/03_C-O-U-N-T-R-Y_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C-O-U-N-T-R-Y (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/04_C-O-U-N-T-R-Y_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "H.O.L.Y.",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/05_H.O.L.Y._Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "H.O.L.Y. - Acoustic",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/06_H.O.L.Y._-_Acoustic_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Only on Days That End in \"Y\"",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/07_Only_on_Days_That_End_in__Y_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Only on Days That End in \"Y\" (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/08_Only_on_Days_That_End_in__Y__(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Y, Sin Pensar",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/09_Y,_Sin_Pensar_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "11 - Y, Sin Pensar",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/10_11_-_Y,_Sin_Pensar_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "11 y 6",
+      "artist": "Fito Páez",
+      "has_synced": true,
+      "path": "select/11_11_y_6_Fito_Páez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Arlequines y Payasos",
+      "artist": "Memphis La Blusera",
+      "has_synced": true,
+      "path": "select/12_Arlequines_y_Payasos_Memphis_La_Blusera.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blues de las 6 y 30",
+      "artist": "Memphis La Blusera",
+      "has_synced": true,
+      "path": "select/13_Blues_de_las_6_y_30_Memphis_La_Blusera.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cenizas y Diamantes - Remastered",
+      "artist": "Don Cornelio y La Zona",
+      "has_synced": false,
+      "path": "select/14_Cenizas_y_Diamantes_-_Remastered_Don_Cornelio_y_La_Zona.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Desarma Y Sangra - Remastered",
+      "artist": "Serú Girán",
+      "has_synced": true,
+      "path": "select/15_Desarma_Y_Sangra_-_Remastered_Serú_Girán.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Desarma Y Sangra - Remastered 2012",
+      "artist": "Serú Girán",
+      "has_synced": true,
+      "path": "select/16_Desarma_Y_Sangra_-_Remastered_2012_Serú_Girán.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La leyenda del hada y el mago",
+      "artist": "Rata Blanca",
+      "has_synced": false,
+      "path": "select/17_La_leyenda_del_hada_y_el_mago_Rata_Blanca.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Y",
+      "artist": "C&K",
+      "has_synced": false,
+      "path": "select/pl_01_Y_C&K.txt"
+    }
+  ]
+}
